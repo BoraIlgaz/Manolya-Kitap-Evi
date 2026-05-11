@@ -39,7 +39,7 @@ Bu proje, profesyonel bir mimari ile inşa edilmiştir:
 * **İstatistiksel Analiz:** Kullanıcıların okuma verilerini işleyen ve görselleştiren mantıksal katman mevcuttur.
 
 ## 🚀 Kullanılan Teknolojiler
-* **Backend:** [Kullandığın Dil ve Framework'ü Buraya Yazın]
+* **Backend:** [C# ve Dotnet Framework]
 * **Veritabanı:** SQL (İlişkisel Veri Modeli)
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 * **Mimari:** MVC (Model-View-Controller)
@@ -49,21 +49,21 @@ Bu proje, profesyonel bir mimari ile inşa edilmiştir:
 ## 📥 Kurulum ve Çalıştırma
 
 1. Projeyi bilgisayarınıza klonlayın:
-
+   
 2. Veritabanı (SQL) bağlantı ayarlarını yapılandırma dosyalarınız üzerinden güncelleyin.
 
 3. SQL scriptlerini veritabanı sunucunuzda çalıştırarak tabloları oluşturun.
 
 4. Projeyi çalıştırın.
 
-🔑 Admin Paneline Erişim
+## 🔑 Admin Paneline Erişim
 Yönetici paneline ulaşmak için tarayıcıda ana URL'nin sonuna /admin/dashboard yolunu eklemeniz gerekmektedir.
 
- Varsayılan Giriş Bilgileri:
+* **Varsayılan Giriş Bilgileri:**
 
-  • Kullanıcı Adı: admin
+* Kullanıcı Adı: admin
 
-  • Şifre: admin123
+* Şifre: admin123
 
 🔓 Lisans
 Bu proje MIT Lisansı ile korunmaktadır. Özgürce kullanılabilir ve geliştirilebilir.
