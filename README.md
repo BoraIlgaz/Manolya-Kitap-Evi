@@ -59,11 +59,11 @@ Bu proje, profesyonel bir mimari ile inşa edilmiştir:
 🔑 Admin Paneline Erişim
 Yönetici paneline ulaşmak için tarayıcıda ana URL'nin sonuna /admin/dashboard yolunu eklemeniz gerekmektedir.
 
-Varsayılan Giriş Bilgileri:
+ Varsayılan Giriş Bilgileri:
 
-Kullanıcı Adı: admin
+  • Kullanıcı Adı: admin
 
-Şifre: admin123
+  • Şifre: admin123
 
 🔓 Lisans
 Bu proje MIT Lisansı ile korunmaktadır. Özgürce kullanılabilir ve geliştirilebilir.
