@@ -15,15 +15,15 @@ Aşağıda platformun kullanıcı arayüzü ve yönetim paneline dair ekran gör
 ### 📱 Kullanıcı Arayüzü
 | **Görsel** | **Açıklama** |
 | :---: | :--- |
-| ![Anasayfa](Screenshots/r1.jpg) | **Anasayfa:** Dinamik istatistiklerin ve popüler kitapların listelendiği ana karşılama ekranı. |
-| ![Kitaplar](Screenshots/r2.jpg) | **Dijital Katalog:** Veritabanından çekilen tüm kitapların dinamik olarak listelendiği keşif alanı. |
-| ![Hakkımızda](Screenshots/r3.jpg) | **Kurumsal Vizyon:** Platformun amacını ve topluluk değerlerini yansıtan bölüm. |
-| ![İletişim](Screenshots/r4.jpg) | **İletişim:** Kullanıcı geri bildirimleri için kurgulanmış etkileşim sayfası. |
+| ![Anasayfa](Screenshots/r1.png) | **Anasayfa:** Dinamik istatistiklerin ve popüler kitapların listelendiği ana karşılama ekranı. |
+| ![Kitaplar](Screenshots/r2.png) | **Dijital Katalog:** Veritabanından çekilen tüm kitapların dinamik olarak listelendiği keşif alanı. |
+| ![Hakkımızda](Screenshots/r3.png) | **Kurumsal Vizyon:** Platformun amacını ve topluluk değerlerini yansıtan bölüm. |
+| ![İletişim](Screenshots/r4.png) | **İletişim:** Kullanıcı geri bildirimleri için kurgulanmış etkileşim sayfası. |
 
 ### 🔐 Yönetim Paneli (Admin Panel & CMS)
 | **Görsel** | **Açıklama** |
 | :---: | :--- |
-| ![Admin Giriş](Screenshots/r5.jpg) | **Güvenli Erişim:** Admin paneline giriş için kullanılan yetkilendirme katmanı. |
+| ![Admin Giriş](Screenshots/r5.png) | **Güvenli Erişim:** Admin paneline giriş için kullanılan yetkilendirme katmanı. |
 | ![Dashboard](Screenshots/r6.png) | **Admin Dashboard:** Sistemin genel durumunu ve SQL verilerini takip etmeyi sağlayan yönetim merkezi. |
 | ![Kitap Ekleme](Screenshots/r7.png) | **İçerik Yönetimi (CRUD):** Kitap ekleme, silme ve güncelleme işlemlerinin yapıldığı kontrol sayfası. |
 
